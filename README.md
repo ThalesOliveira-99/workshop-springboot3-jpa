@@ -148,4 +148,4 @@ course/
 Este projeto é disponibilizado para fins de estudo e portfólio profissional. Sinta-se à vontade para utilizá-lo como referência ou contribuir com melhorias!
 
 ---
-*Desenvolvido com dedicação para aprofundamento em arquitetura Back-End, Java e Ecossistema Spring.*
+*Projeto desenvolvido com dedicação durante a formação DevSuperior, com foco no aprofundamento em arquitetura Back-End, Java e Ecossistema Spring.*
